@@ -1,7 +1,7 @@
 /** @format */
 
 export const navItems = [
-  { name: "Home", link: "#" },
+  { name: "Home", link: "#hero" },
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
   { name: "Testimonials", link: "#testimonials" },
@@ -208,13 +208,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    url: "https://github.com/tamimhasan19702",
   },
   {
     id: 2,
     img: "/twit.svg",
+    url: "https://x.com/tamimha58971058",
   },
   {
     id: 3,
     img: "/link.svg",
+    url: "https://www.linkedin.com/in/tareq-monower-tamim/",
   },
 ];
