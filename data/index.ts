@@ -49,7 +49,6 @@ export const gridItems = [
     img: "/grid.svg",
     spareImg: "/b4.svg",
   },
-
   {
     id: 5,
     title: "Currently building a JS Animation library",
@@ -69,6 +68,7 @@ export const gridItems = [
     titleClassName: "justify-center md:max-w-full max-w-60 text-center",
     img: "",
     spareImg: "",
+    email: "tareqmonower21@gmail.com",
   },
 ];
 

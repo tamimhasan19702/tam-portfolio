@@ -1,3 +1,5 @@
+/** @format */
+
 import { gridItems } from "@/data";
 import { BentoGrid, BentoGridItem } from "./ui/BentoGrid";
 
@@ -18,6 +20,7 @@ const Grid = () => {
             imgClassName={item.imgClassName}
             titleClassName={item.titleClassName}
             spareImg={item.spareImg}
+            email={item.email}
           />
         ))}
       </BentoGrid>
